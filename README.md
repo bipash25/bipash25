@@ -1,4 +1,4 @@
-# Hi there, I'm Bipash 👋
+# Hi there, I'm Biprodeep 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new things and take on new challenges.
 
