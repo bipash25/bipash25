@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🔗 Links
 <!-- - [LinkedIn](your-linkedin-profile) -->
-- [Twitter](your-twitter-profile)
+- [X](https://x.com/lost_bipro)
 <!-- - [Personal Website](your-personal-website) -->
 
 <!-- ## 📝 Latest Blog Posts -->
